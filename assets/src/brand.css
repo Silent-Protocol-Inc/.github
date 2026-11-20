@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,650&family=Geist:wght@400;500&family=JetBrains+Mono:wght@500&display=block');
+/* Night Watch: warm graphite ground, one sodium accent. Values from silentprotocol.top. */
+:root{--ground:#0e0c0a;--panel:#1c1712;--ink:#f3ece2;--muted:#b4a999;--lamp:#ffc27a;--sodium:#ff8f4a}
+*{margin:0;box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font-family:Geist,system-ui,sans-serif}
